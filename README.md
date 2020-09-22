@@ -20,7 +20,9 @@ ShiroScan和ShiroExploit。
 
 ### ShiroExploit
 
-![ShiroExploit](Shiro/ShiroExploit-02.png)
+![ShiroExploit](Shiro/ShiroExploit-04.png)
+
+![ShiroExploit](Shiro/ShiroExploit-05.png)
 
 ## Tools
 

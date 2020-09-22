@@ -17,6 +17,18 @@ ShiroScan和ShiroExploit。ShiroScan是从ShiroExploit剥离出来的一个Shiro
 
 下一个版本2.0，新增内存shell，完成tomcat6/7/8/9下的回显[**参考**：https://github.com/zema1/ysoserial/]。
 
+#### v2.0
+
+支持内存cmd shell的写入与卸载
+
+![](ShiroExploit-04.png)
+
+![](ShiroExploit-05.png)
+
+
+
+
+
 #### v1.4
 
 ![](ShiroExploit-01.png)
