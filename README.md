@@ -6,7 +6,7 @@
 
 JBoss漏洞检测工具。
 
-![](JBoss/单一URL漏洞验证.png)
+![](images/JBoss/单一URL漏洞验证.png)
 
 **<font color=red>目前有问题，暂不放出。</font>**
 
@@ -16,13 +16,13 @@ ShiroScan和ShiroExploit。
 
 ### ShiroScan
 
-![ShiroScan.png](Shiro/ShiroScan.png)
+![ShiroScan.png](images/Shiro/ShiroScan.png)
 
 ### ShiroExploit
 
-![ShiroExploit](Shiro/ShiroExploit-04.png)
+![ShiroExploit](images/Shiro/ShiroExploit-04.png)
 
-![ShiroExploit](Shiro/ShiroExploit-05.png)
+![ShiroExploit](images/Shiro/ShiroExploit-05.png)
 
 ## Tools
 
@@ -30,7 +30,7 @@ ShiroScan和ShiroExploit。
 
 一款**不太好用**的目录扫描工具，dic里面是字典（模仿的是k8，字典也是k8里面的）。
 
-![](Tools/DirScan.png)
+![](images/Tools/DirScan.png)
 
 
 
@@ -62,12 +62,12 @@ java -jar -Dfile.encoding=utf-8 NameChange.jar -f  姓名.txt -m 0 //显示在�
 
 根据url查看标题、Server。
 
-![](Tools/WebCheck01.png)
+![](images/Tools/WebCheck01.png)
 
 
 
 根据IP列表探测端口
 
-![](Tools/WebCheck02.png)
+![](images/Tools/WebCheck02.png)
 
 双击是打开，右键是复制到剪贴板。保存位置是当前目录下，格式为csv，方便查看。
