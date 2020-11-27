@@ -24,7 +24,11 @@ ShiroScan和ShiroExploit。
 
 ### ShiroExploit
 
-![ShiroExploit](images/Shiro/ShiroExploit-04.png)
+![ShiroExploit](images/Shiro/Shiro回显.png)
+
+
+
+**cmd内存Shell**
 
 ![ShiroExploit](images/Shiro/ShiroExploit-05.png)
 
