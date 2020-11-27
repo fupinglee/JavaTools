@@ -13,7 +13,33 @@ ShiroScan和ShiroExploit。ShiroScan是从ShiroExploit剥离出来的一个Shiro
 
 ## ShiroExploit
 
-当前版本2.0，新增内存shell，完成tomcat6/7/8/9下的通用回显，无需选择tomcat版本[**参考**：https://github.com/zema1/ysoserial/]。
+当前版本2.3.
+
+**支持：**
+
+ 1.支持Tomcat7、Tomcat8、Tomcat9下的回显。
+
+ 2.支持Tomcat7、Tomcat8、Tomcat9下内存cmd马的写入与卸载。
+
+ 执行成功访问的URL为http://ip:port/xxx?labCmd=[命令]&pwd=[密码]。
+
+ 3.支持Tomcat7、Tomcat8、Tomcat9下蚁剑内存shell的写入与卸载(请用蚁剑连接，连接类型CUSTOM)。 
+
+执行成功后连接的URL为http://ip:port/xxx?ver=[任意字符串]。
+
+ 4.支持Tomcat7、Tomcat8、Tomcat9以及SpringBoot下冰蝎内存shell的写入与卸载(请用蚁剑连接，连接类型JSP)。 执行成功后连接的URL为http://ip:port/xxx。
+
+> **以上发送请求时均需带上自定义的header：Accept-Header:[自定义的Accept-Header内容]**
+
+
+
+
+
+#### v2.3
+
+![](../images/Shiro/v23_1.png)
+
+使用说明：https://github.com/fupinglee/JavaTools/blob/master/Shiro/使用说明-v2.3.pdf
 
 #### v2.0
 

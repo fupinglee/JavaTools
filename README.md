@@ -28,6 +28,20 @@ ShiroScan和ShiroExploit。
 
 ![ShiroExploit](images/Shiro/ShiroExploit-05.png)
 
+**SpringBoot环境下写入冰蝎Shell**
+
+![ShiroExploit](images/Shiro/21.png)
+
+**使用蚁剑连接**
+
+![ShiroExploit](images/Shiro/24.png)
+
+
+
+更多使用说明参考:https://github.com/fupinglee/JavaTools/blob/master/Shiro/使用说明-v2.3.pdf
+
+
+
 ## Tools
 
 ### DirScan
