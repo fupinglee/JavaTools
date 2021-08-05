@@ -72,17 +72,17 @@ MySQL实时监控工具（代码审计、黑盒测试辅助工具）
 点击更新查看执行的SQL语句
 ![查看执行的sql语句](images/Tools/MySQLMonitor/更新.png)
 
-#####搜索
+##### 搜索
 
 在搜索框里输入内容可以对所需要的sql语句进行过滤
 ![搜索](images/Tools/MySQLMonitor/搜索.png)
 
-#####清空
+##### 清空
 
 清空按钮清空表格里面的内容
 ![清空](images/Tools/MySQLMonitor/清空.png)
 
-#####其他
+##### 其他
 
 单击选中一行后，鼠标移动可以悬浮显示该行的sql语句
 ![其他](images/Tools/MySQLMonitor/悬浮提示.png)
